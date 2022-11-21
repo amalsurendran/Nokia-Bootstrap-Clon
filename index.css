@@ -1,0 +1,80 @@
+
+.asc{
+  overflow-x: hidden;
+}
+.ms-5 {
+    margin-left:14rem !important;
+  }
+  .ddh:hover.ddc{ 
+   display: block  !important;
+
+  
+  }
+  .card{
+    border-radius: none !important; 
+  }
+  
+ 
+  .card-img-overlay{
+    width:max-content;
+    text-align: center;
+    overflow-y: hidden;
+   
+  }
+  #card-1{
+  text-align:justify;
+margin-top: 27vw;
+left: 12vw;
+
+  }
+  .center{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #photo-hover{
+    transition: 0.6s;
+   
+  }
+  #photo-hover:hover{
+    transform: scale(1.1);
+    z-index:2;
+  }
+  .thumbnail{
+    text-decoration: none !important;
+    color: black !important;
+  }
+  .thumbnail:hover{
+    text-decoration: underline !important;
+    color: blue !important;
+  }
+   form, .collapse :hover > .one{ 
+    display: block !important;
+
+  }
+  
+   .collapse :hover > .three {
+    display: block;
+
+   
+  }
+  form, .collapse :hover > .two {
+    display: block;
+    
+  }
+  form, .collapse :hover > .four {
+    display: block;
+    
+  }
+  .collapse :hover >form .one{
+    display: none;
+  }
+  #weare{
+    margin-top: 15vw !important;
+  }
+  hr{
+    border: 2px;
+   background-color: white;
+  }
